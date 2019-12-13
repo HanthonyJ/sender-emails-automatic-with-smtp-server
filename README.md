@@ -1,0 +1,3 @@
+# sender-emails-automatic-with-smtp-server
+this project use smtp server for sending mani emails to many emails address with file attachment automatic...
+
